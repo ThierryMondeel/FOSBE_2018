@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org:/repo/thierrymondeel/fosbe_2018)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org:/repo/thierrymondeel/FOSBE_2018)
 
 # FOSBE_2018
 The code in this repository pertains to the publication "NET works after all? Engineering robustness through diversity" presented as part of the FOSBE 2018 conference.
