@@ -1,6 +1,7 @@
 cobra
 lxml
 escher
-bokeh
 matplotlib
+bokeh
 openpyxl
+xlrd
