@@ -2,5 +2,4 @@ cobra
 lxml
 escher
 bokeh
-
-
+matplotlib
