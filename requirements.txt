@@ -1,5 +1,6 @@
 cobra
 lxml
 escher
+bokeh
 
 
